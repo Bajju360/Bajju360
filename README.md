@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Bajju360
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python and pandas
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 Building lite weight Agents
 - 📫 How to reach me kommanamanchibharadwaj@gmail.com
 
 <!---
